@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31a781a5-2027-46bf-8522-960682287d2b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Side Scrolling Character/SideScrollMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+              <folding>
+                <marker date="1569527887069" expanded="false" signature="6:78" ph="..." />
+                <marker date="1569527887069" expanded="true" signature="127:1087" ph="{...}" />
+                <marker date="1569527887069" expanded="true" signature="308:414" ph="/* We will place this variable as an argument fufillment for the ... */" />
+                <marker date="1569527887069" expanded="true" signature="505:526" ph="{...}" />
+                <marker date="1569527887069" expanded="true" signature="550:942" ph="{...}" />
+                <marker date="1569527887069" expanded="true" signature="709:751" ph="{...}" />
+                <marker date="1569527887069" expanded="true" signature="794:838" ph="{...}" />
+                <marker date="1569527887069" expanded="true" signature="884:929" ph="{...}" />
+                <marker date="1569527887069" expanded="true" signature="974:1085" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/SwitchCharacter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+              <folding>
+                <marker date="1569531574644" expanded="false" signature="6:78" ph="..." />
+                <marker date="1569531574644" expanded="true" signature="124:2504" ph="{...}" />
+                <marker date="1569531574644" expanded="true" signature="434:1111" ph="{...}" />
+                <marker date="1569531574644" expanded="true" signature="996:1104" ph="/* sideScrollingCharacter.gameObject.SetActive(true); ... */" />
+                <marker date="1569531574644" expanded="true" signature="1135:1279" ph="{...}" />
+                <marker date="1569531574644" expanded="true" signature="1187:1273" ph="{...}" />
+                <marker date="1569531574644" expanded="true" signature="1314:2502" ph="{...}" />
+                <marker date="1569531574644" expanded="true" signature="1329:1415" ph="/* Processing the whichPlayerIsOn variable ... */" />
+                <marker date="1569531574644" expanded="true" signature="1448:2496" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Side Scrolling Character/SideScrollMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SwitchCharacter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Side Scrolling Character/CharacterController2D.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/TopDownMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/CharacterController2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/SideScrollMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Side Scrolling Character/SideScrollMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/SwitchCharacter.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1260" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31a781a5-2027-46bf-8522-960682287d2b" name="Default Changelist" comment="" />
+      <created>1569523623209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569523623209</updated>
+      <workItem from="1569523642323" duration="7274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7274000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="LuaJ" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/2D-Character-Controller-master/2D-Character-Controller-master/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CharacterController2D.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3828">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SideScrollMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TopDownMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Side Scrolling Character/CharacterController2D.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3335">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1569526329948" expanded="false" signature="6:44" ph="..." />
+            <marker date="1569526329948" expanded="true" signature="96:4688" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="1708:1890" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="1919:2485" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="1981:2188" ph="/* The player is grounded if a circlecast to the groundcheck position hits anything designated as ground ... */" />
+            <marker date="1569526329948" expanded="true" signature="2346:2482" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="2396:2478" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="2541:4422" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="2621:2839" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="2806:2835" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="2941:4229" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="2980:3309" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="3010:3083" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="3314:3556" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="3476:3551" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="3997:4047" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="4175:4225" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="4289:4419" ph="{...}" />
+            <marker date="1569526329948" expanded="true" signature="4445:4686" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Side Scrolling Character/SideScrollMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+          <folding>
+            <marker date="1569527887069" expanded="false" signature="6:78" ph="..." />
+            <marker date="1569527887069" expanded="true" signature="127:1087" ph="{...}" />
+            <marker date="1569527887069" expanded="true" signature="308:414" ph="/* We will place this variable as an argument fufillment for the ... */" />
+            <marker date="1569527887069" expanded="true" signature="505:526" ph="{...}" />
+            <marker date="1569527887069" expanded="true" signature="550:942" ph="{...}" />
+            <marker date="1569527887069" expanded="true" signature="709:751" ph="{...}" />
+            <marker date="1569527887069" expanded="true" signature="794:838" ph="{...}" />
+            <marker date="1569527887069" expanded="true" signature="884:929" ph="{...}" />
+            <marker date="1569527887069" expanded="true" signature="974:1085" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SwitchCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+          <folding>
+            <marker date="1569531574644" expanded="false" signature="6:78" ph="..." />
+            <marker date="1569531574644" expanded="true" signature="124:2504" ph="{...}" />
+            <marker date="1569531574644" expanded="true" signature="434:1111" ph="{...}" />
+            <marker date="1569531574644" expanded="true" signature="996:1104" ph="/* sideScrollingCharacter.gameObject.SetActive(true); ... */" />
+            <marker date="1569531574644" expanded="true" signature="1135:1279" ph="{...}" />
+            <marker date="1569531574644" expanded="true" signature="1187:1273" ph="{...}" />
+            <marker date="1569531574644" expanded="true" signature="1314:2502" ph="{...}" />
+            <marker date="1569531574644" expanded="true" signature="1329:1415" ph="/* Processing the whichPlayerIsOn variable ... */" />
+            <marker date="1569531574644" expanded="true" signature="1448:2496" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
